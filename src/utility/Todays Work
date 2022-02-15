@@ -1,0 +1,26 @@
+//contact number
+Suprina: 9846566995
+Roshan: 9861685257
+Robina:9867727451
+Joshan: 9817922101
+Sakshamta :9860232300
+Sanjit :9843633922/ 9803022719
+
+maaser_github token
+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
+protoc --proto_path=./ --js_out=import_style=commonjs,binary:build/ *.proto
+
+change the if condition in login saga if it is fixed that this app is only used by employee
+
+TODAYS TASK
+
+->Setup login credentials on login screen and build new apk of IdenteqApp and send it to dipak sir
+->Learn about js new concepts ,oop concepts Redux and Redux saga, React Navigation and others related technology as per requirements
+->revise yesterday questions and answers
+->Fill data on maaser app,also if possible setup for apexride app
+
+
+
+
+
+
